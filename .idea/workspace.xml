@@ -1,16 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="773fa3cd-d9fe-440f-9a1b-868f2e654a5f" name="変更" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compPrg.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AtCooder/ABC081B.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/leetCode.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/001_TwoSum.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/001_TwoSum.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/001_TwoSum.py" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/001_TwoSum.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hyperBrain.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/hyperBrain.ipynb" afterDir="false" />
+    <list default="true" id="773fa3cd-d9fe-440f-9a1b-868f2e654a5f" name="変更" comment="made template file">
+      <change afterPath="$PROJECT_DIR$/AtCooder/ABC049C.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AtCooder/ABC083B.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AtCooder/ABC085B.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AtCooder/ABC085C.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AtCooder/ABC086C.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AtCooder/ABC087B.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AtCooder/ABC088B.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cheetNote.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compPrg.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compPrg.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/template.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +23,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Jupyter Notebook" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -28,6 +31,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="253uQNU21TwjcgECj54aAHRezVh" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -37,8 +43,12 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/AtCooder" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/AtCooder" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/LeetCode" />
     </key>
@@ -52,8 +62,16 @@
       <option name="presentableId" value="Default" />
       <updated>1644768073573</updated>
       <workItem from="1644768075128" duration="418000" />
-      <workItem from="1644768772287" duration="1232000" />
+      <workItem from="1644768772287" duration="15771000" />
     </task>
+    <task id="LOCAL-00001" summary="made template file">
+      <created>1644935014671</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1644935014671</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -70,5 +88,10 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="make directory" />
+    <MESSAGE value="made template file" />
+    <option name="LAST_COMMIT_MESSAGE" value="made template file" />
   </component>
 </project>
